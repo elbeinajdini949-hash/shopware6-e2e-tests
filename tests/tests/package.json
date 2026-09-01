@@ -1,0 +1,12 @@
+{
+  "name": "shopware6-e2e-tests",
+  "version": "1.0.0",
+  "description": "E2E Automated Guest Checkout Test for Shopware 6 - Solution25 Task",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.0.0"
+  }
+}
